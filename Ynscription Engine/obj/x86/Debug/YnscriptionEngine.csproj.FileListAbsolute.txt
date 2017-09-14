@@ -1,0 +1,12 @@
+c:\users\eavilarod\documents\visual studio 2010\Projects\Ynscription Engine\Ynscription Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\eavilarod\documents\visual studio 2010\Projects\Ynscription Engine\Ynscription Engine\bin\x86\Debug\Ynscription Engine.dll
+C:\Users\eavilarod\documents\visual studio 2010\Projects\Ynscription Engine\Ynscription Engine\bin\x86\Debug\Ynscription Engine.pdb
+C:\Users\eavilarod\documents\visual studio 2010\Projects\Ynscription Engine\Ynscription Engine\obj\x86\Debug\YnscriptionEngine.csprojResolveAssemblyReference.cache
+C:\Users\eavilarod\documents\visual studio 2010\Projects\Ynscription Engine\Ynscription Engine\obj\x86\Debug\Ynscription Engine.dll
+C:\Users\eavilarod\documents\visual studio 2010\Projects\Ynscription Engine\Ynscription Engine\obj\x86\Debug\Ynscription Engine.pdb
+E:\PenBackUp\Code\C#\Projects\Ynscription Engine\Ynscription Engine\bin\x86\Debug\Ynscription Engine.dll
+E:\PenBackUp\Code\C#\Projects\Ynscription Engine\Ynscription Engine\bin\x86\Debug\Ynscription Engine.pdb
+E:\PenBackUp\Code\C#\Projects\Ynscription Engine\Ynscription Engine\obj\x86\Debug\YnscriptionEngine.csprojResolveAssemblyReference.cache
+E:\PenBackUp\Code\C#\Projects\Ynscription Engine\Ynscription Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\PenBackUp\Code\C#\Projects\Ynscription Engine\Ynscription Engine\obj\x86\Debug\Ynscription Engine.dll
+E:\PenBackUp\Code\C#\Projects\Ynscription Engine\Ynscription Engine\obj\x86\Debug\Ynscription Engine.pdb

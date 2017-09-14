@@ -1,0 +1,2 @@
+c:\users\eavilarod\documents\visual studio 2010\Projects\Ynscription Engine\Ynscription Engine\obj\x86\Debug\Ynscription Engine.csprojResolveAssemblyReference.cache
+c:\users\eavilarod\documents\visual studio 2010\Projects\Ynscription Engine\Ynscription Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
